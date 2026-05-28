@@ -61,6 +61,6 @@ Voloshow is built as a production web platform with a modern frontend, Java-back
 ---
 
 <div align="center">
-  <strong>Voloshow: AI Images · Image Tools · Product Photos · Video</strong><br />
+  <strong>Voloshow: AI Images · Image Tools · Product Photos · Image to Video</strong><br />
   <a href="https://voloshow.com/">https://voloshow.com</a>
 </div>
