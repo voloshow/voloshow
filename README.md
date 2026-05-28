@@ -1,17 +1,12 @@
-<div align="center">
-  <a href="https://voloshow.com/">
-    <img src="https://voloshow.com/icon-512.png" alt="Voloshow" width="96" height="96" />
-  </a>
-
 # Voloshow - AI Image & Video Creative Studio
+
+![Voloshow](https://voloshow.com/icon-512.png)
 
 Create, edit, productize, and animate visuals in one AI creative workflow.
 
 [![Visit Voloshow](https://img.shields.io/badge/Visit-voloshow.com-111827?style=for-the-badge)](https://voloshow.com/)
 [![Explore Gallery](https://img.shields.io/badge/Explore-Gallery-2563eb?style=for-the-badge)](https://voloshow.com/explore)
 [![Image Tools](https://img.shields.io/badge/Image-Tools-16a34a?style=for-the-badge)](https://voloshow.com/image-tools)
-
-</div>
 
 ## About Voloshow
 
@@ -60,7 +55,5 @@ Voloshow is built as a production web platform with a modern frontend, Java-back
 
 ---
 
-<div align="center">
-  <strong>Voloshow: AI Images · Image Tools · Product Photos · Image to Video</strong><br />
-  <a href="https://voloshow.com/">https://voloshow.com</a>
-</div>
+**Voloshow: AI Images · Image Tools · Product Photos · Image to Video**  
+[https://voloshow.com](https://voloshow.com)
